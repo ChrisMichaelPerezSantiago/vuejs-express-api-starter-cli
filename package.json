@@ -1,6 +1,6 @@
 {
   "name": "vuejs-express-api-starter-cli",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "A CLI that automatically clone the vuejs-express-api-starter template",
   "bin": {
     "vuejs-express-api-starter-cli": "index.js"
