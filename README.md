@@ -1,4 +1,4 @@
-# Vue Store Starter CLI
+# Vuejs Express API Starter CLI
 💡 *A CLI that automatically clone the [vuejs-express-api-starter](https://github.com/ChrisMichaelPerezSantiago/vuejs-express-api-starter)  template* 
 
 
